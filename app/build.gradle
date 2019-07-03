@@ -185,6 +185,22 @@ android {
         }
     }
 
+    //调整目录结构
+   /* sourceSets {
+        min.java.srcDirs = ['src/java']
+        min.resources.srcDirs = ['src/resources']
+    }*/
+   /* sourceSets {
+        main {
+            java {
+                srcDir 'src/java'
+            }
+            resources {
+                srcDir 'src/resources'
+            }
+        }
+    }*/
+
 }
 
 dependencies {
