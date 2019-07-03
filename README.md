@@ -14,6 +14,9 @@ $ git clone https://github.com/sheep0704/AndroidStudioGradle.git
 Key is invalid. It must begin with 'ssh-ed25519', 'ssh-rsa', 'ssh-dss', 'ecdsa-sha2-nistp256', 'ecdsa-sha2-nistp384', or 'ecdsa-sha2-nistp521'.  
 
 
+# 问题Q
+有问题可以访问 :[https://dujinyang.blog.csdn.net/article/details/17884069](https://dujinyang.blog.csdn.net/article/details/17884069)
+
 <hr/>
 
 有兴趣的可以关注【Python2048】 公众号<br/>
