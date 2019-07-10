@@ -89,8 +89,8 @@ android {
             versionCode 1
             versionName "1.2.0"
             //${icon}
-            manifestPlaceholders = [app_name: "baidu",icon:"@mipmap/fgcq",
-            app_icon:"@mipmap/fgcq"]
+            manifestPlaceholders = [app_name: "baidu",icon:"@mipmap/ic_launcher",
+            app_icon:"@mipmap/ic_launcher"]
           /*
             // 动态添加 string.xml 字段；
             // 注意，如果在这添加，在 string.xml 不能有这个字段，会重名！！！这里使用资源文件覆盖的方式来处理应用名称
