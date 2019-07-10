@@ -2,7 +2,7 @@
 
 ## 环境
 持续更新：
-* 目前版本AndroidStudio3.4.1+Gradle5.1.1
+* 目前版本 AndroidStudio3.4.2 + Gradle5.1.1 + proguard-gradle:6.0.3
 * productFlavors声明+gradlew编译，适合小白快速构建Android gradle工程，快速拉取构建工程。
 
 
