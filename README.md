@@ -1,5 +1,10 @@
 # AndroidStudioGradle
 
+## 文章
+
+通常自己配置过渡期都会有异常，可以查看这篇文章：[《AndroidStudio 升级3.4后gradle引发的多渠道多任务异常》](https://dujinyang.blog.csdn.net/article/details/94396209)
+
+
 ## 环境
 持续更新：
 * 目前版本 AndroidStudio3.4.2 + Gradle5.1.1 + proguard-gradle:6.0.3
